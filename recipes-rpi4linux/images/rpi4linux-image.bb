@@ -8,4 +8,4 @@ IMAGE_INSTALL += "openssh openssl openssh-sftp-server"
 
 DEPENDS += "bootfiles"
 
-LAYERSERIES_COMPAT_rpilinux = "gatesgarth"
+LAYERSERIES_COMPAT_rpilinux = "dunfell"
