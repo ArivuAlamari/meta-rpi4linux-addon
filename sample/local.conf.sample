@@ -19,7 +19,6 @@ BB_NUMBER_THREADS = "4"
 # # Also, make can be passed flags so it run parallel threads e.g.:
 PARALLEL_MAKE = "-j 4"
 
-
 #
 # Machine Selection
 #
@@ -32,7 +31,7 @@ PARALLEL_MAKE = "-j 4"
 #MACHINE ?= "qemumips64"
 #MACHINE ?= "qemuppc"
 #MACHINE ?= "qemux86"
-#MACHINE ?= "raspberrypi4-64.conf"
+#MACHINE ?= "qemux86-64"
 #
 # There are also the following hardware board target machines included for 
 # demonstration purposes:
