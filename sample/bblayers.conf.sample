@@ -11,4 +11,5 @@ BBLAYERS ?= " \
   /home/bhpe/rpi4/poky/meta-yocto-bsp \
   /home/bhpe/rpi4/poky/meta-raspberrypi \
   /home/bhpe/rpi4/poky/meta-rpi4linux-addon \
+  /home/bhpe/rpi4/poky/meta-openembedded/meta-oe \  
   "
