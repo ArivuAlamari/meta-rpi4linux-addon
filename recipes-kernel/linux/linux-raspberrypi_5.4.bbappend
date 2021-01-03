@@ -1,0 +1,7 @@
+FILESEXTRAPATHS_prepend := "${THISDIR}/files:"
+
+SRC_URI += " file://fragment.cfg \
+           "
+
+DELTA_KERNEL_DEFCONFIG += " fragment.cfg \
+                          "
